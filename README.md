@@ -4,8 +4,8 @@
 
 Project LOOP is an AI-powered customer-feedback intelligence platform designed to help teams understand customer sentiment, identify recurring themes, track feedback trends, and generate meaningful insights from unstructured feedback data.
 
-🔗 **Live Demo:** https://loop-eta-ten.vercel.app/  
-💻 **Source Code:** https://github.com/Sumit-217/LOOP
+🔗 **Live Demo:** https://project-loop-feedback.netlify.app/  
+
 
 ---
 
